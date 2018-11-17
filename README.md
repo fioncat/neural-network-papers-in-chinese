@@ -10,6 +10,13 @@
 
 ## 计算机视觉相关
 
-- [基于图像的序列识别](zh/image-based-sequence-recognition_zh.md) - 来自华中科技大学.[英文版](en/image-based-sequence-recognition_en.pdf)
+- [用于大规模图像识别的超深卷积神经网络(VGG)]() - [英文版]()
+- [Inception-v4,Inception-ResNet和残余联系对学习的影响]() - [英文版]()
+- [基于神经网络图像序列识别(OCR)](zh/image-based-sequence-recognition_zh.md) - [英文版](en/image-based-sequence-recognition_en.pdf)
+
 
 ## 自然语言处理相关
+
+- [基于隐马尔科夫模型的语音识别]() - [英文版]() 注意:这篇论文并没有涉及到神经网络.但是隐马尔科夫是解决语音识别的经典模型并且未来可能可以和神经网络结合,所以这里我翻译了这篇论文.
+- [基于深度循环网络的语音识别]() - [英文版]()
+- [使用RNN编码-解码器学习短语表示以进行统计机器翻译]() - [英文版]()
